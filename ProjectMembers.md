@@ -14,3 +14,11 @@ Math, 4th Year, Python
 ## David Araya
 
 Github: sjsPuzzler
+
+
+## Julia Cai
+Computer Science, 3rd Year, Python
+
+Github: juliaziqingcai
+
+I'm only 151cm tall!
